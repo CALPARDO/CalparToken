@@ -1,2 +1,2 @@
 0xd5df13abe7a8d335c145639c70660ca767e42f7e
-https://testnet.bscscan.com/token/0x93638D2e07c583D05b516aFcEa87EB0d419F92eb
+https://bscscan.com/token/0xd5df13abe7a8d335c145639c70660ca767e42f7e
