@@ -1,1 +1,2 @@
 0x93638D2e07c583D05b516aFcEa87EB0d419F92eb
+https://testnet.bscscan.com/token/0x93638D2e07c583D05b516aFcEa87EB0d419F92eb
